@@ -8,8 +8,8 @@
 
   // Configure.
   Kinvey.init({
-    appKey: '<476271692425975>',
-    appSecret: '<1526f747f4819baf23fa90ce909f5e57>',
+    appKey: '<127311370776830>',
+    appSecret: '<41c8b21d83677f7a1dc43aa90d2dc25b>',
     sync: true// Enable offline saving.
   });
 
